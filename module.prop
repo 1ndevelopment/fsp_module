@@ -1,0 +1,7 @@
+id=fsp_module
+name=FSP (Fix SELinux Policies)
+version=v0.0.1
+versionCode=1
+author=1ndevelopment
+description=Confgure SELinux Policies Non-Permissively
+updateJson=https://raw.githubusercontent.com/1ndevelopment/fsp_module/main/update.json
